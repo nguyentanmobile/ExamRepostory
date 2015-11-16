@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bdedd695318330a6a926bd53a898a19b:fa997c785138ff9f2ee8a8c0970d1533:a80b25179198edcf5a49b2535724c0bb$ -->
+<TextureAtlas imagePath="PCC_Stamps.png" width="1921" height="706">
+    <SubTexture name="PCC_LetterTopBar" x="2" y="2" width="739" height="10"/>
+    <SubTexture name="PCC_TipIcon" x="743" y="2" width="36" height="48"/>
+    <SubTexture name="postcard-stamp8" x="781" y="2" width="100" height="54"/>
+    <SubTexture name="postcard-stamp12" x="883" y="2" width="100" height="67"/>
+    <SubTexture name="PCC_StampBox" x="985" y="2" width="62" height="72"/>
+    <SubTexture name="postcard-stamp4" x="1049" y="2" width="100" height="81"/>
+    <SubTexture name="postcard-stamp2" x="1151" y="2" width="100" height="86"/>
+    <SubTexture name="postcard-stamp6" x="1253" y="2" width="100" height="87"/>
+    <SubTexture name="postcard-stamp10" x="1355" y="2" width="100" height="94"/>
+    <SubTexture name="postcard-stamp3" x="1457" y="2" width="84" height="98"/>
+    <SubTexture name="postcard-stamp9" x="1543" y="2" width="87" height="100"/>
+    <SubTexture name="postcard-stamp7" x="1632" y="2" width="86" height="100"/>
+    <SubTexture name="postcard-stamp11" x="1720" y="2" width="86" height="100"/>
+    <SubTexture name="postcard-stamp1" x="1808" y="2" width="83" height="100"/>
+    <SubTexture name="postcard-stamp5" x="2" y="104" width="86" height="100"/>
+    <SubTexture name="PCC_RWT" x="90" y="104" width="415" height="107"/>
+    <SubTexture name="PCC_ScrollBoxWindow" x="507" y="104" width="498" height="396"/>
+    <SubTexture name="PCC_LetterLeftBar" x="1007" y="104" width="10" height="459"/>
+    <SubTexture name="postcard" x="1019" y="104" width="900" height="600"/>
+</TextureAtlas>

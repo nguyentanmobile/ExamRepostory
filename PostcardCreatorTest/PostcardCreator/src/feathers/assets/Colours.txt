@@ -1,0 +1,32 @@
+BG colour:
+#6498a3    (R 100, G 152, B 163)
+
+-----
+bottom bar:
+#b7eefa    (R 183, G 238, B 250)
+20% opacity
+
+or
+
+#74a3ac    (R 116, G 163, B172) 
+Full opaque
+
+-----
+tips box seperator:
+#0f4b56    (R  15, G  75, B 86)
+20% opacity
+
+or 
+
+#cfc111    (R 201, G 193, B 17)
+Full opaque
+
+-----
+DropShadow Letter:
+#000000    (R 0, G 0, B 0)
+20% opacity
+
+or
+
+#507a82    (R 80, G 122, B 130)
+Full opaque
